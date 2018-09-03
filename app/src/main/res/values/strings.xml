@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TourGuideAccra</string>
+
+    <!-- Category names for Tabs -->
+    <string name="category_restaurants">Restau</string>
+    <string name="category_others">Others</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_churches">Church</string>
+
+</resources>
